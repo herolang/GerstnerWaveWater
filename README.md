@@ -1,4 +1,4 @@
-# myWater
+# GerstnerWaveWater
 UnityVersion: 5.5.5p2
 simulate water wave(Gerstner Wave)
 my blog:
